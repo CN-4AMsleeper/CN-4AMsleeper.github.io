@@ -33,7 +33,7 @@ url = "/tags/"
 weight = 2
 [[menu.feed]]
 name = "Frontpage"
-url = "/index.xml"
+url = "/CN's Blog/"
 
 [params]
 custom_css = ["css/fonts.css"]
